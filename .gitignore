@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+.metals/
+.vscode/
+
+.bsp/
+.scala-build/
+
+# default target folder for generated yaml
+api/
